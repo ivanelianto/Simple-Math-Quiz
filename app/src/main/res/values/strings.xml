@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleMathQuiz</string>
+    <string name="question1">8 x 3 = &#8230;</string>
+    <string name="question2">13824 is cube number from = &#8230;</string>
+    <string name="question3">0 divide with 5 = &#8230;</string>
+    <string name="question4">2nd and 10th and Prime Numbers = &#8230; and &#8230;</string>
+    <string name="question5">n value is &#8230;</string>
+</resources>
